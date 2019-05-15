@@ -2,4 +2,4 @@ This app takes in one of four commands: spotify-this-song, movie-this, concert-t
 
 <img src="./Screen Shot 2019-05-14 at 9.48.02 PM.png">
 <img src="./Screen Shot 2019-05-14 at 9.50.23 PM.png">
-<img src="./Screen Shot 2019-05-14 at 9.51.05 PM.png>
+<img src="./Screen Shot 2019-05-14 at 9.51.05 PM.png">
